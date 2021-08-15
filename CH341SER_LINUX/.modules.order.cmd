@@ -1,0 +1,1 @@
+cmd_/home/cajacobs/Documents/Arduino/CH341SER_LINUX/modules.order := {   echo /home/cajacobs/Documents/Arduino/CH341SER_LINUX/ch34x.ko; :; } | awk '!x[$$0]++' - > /home/cajacobs/Documents/Arduino/CH341SER_LINUX/modules.order
